@@ -4,7 +4,7 @@
 Repositório designado para todos os Projetos de Power BI entregues.  
 
 
-* Sales Report  
+* Report Sales    
 > Dataset pújblico referente a pedidos e vendas de uma multinacional do varejo.  
 
 <br>
