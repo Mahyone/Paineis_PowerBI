@@ -6,7 +6,7 @@ Repositório designado para todos os Projetos de Power BI entregues.
 
 * Dashboard Análise de RH:
 > Dataset público referente as informações dos colaboradores da uma empresa, como idade, tempo de casa, salário, treinamentos participantes, avaliação de performance, entre outros.      <br>
-> Pbjetivos de cada painel pré-estabelecidas no briefing:  
+> Objetivos de cada painel pré-estabelecidas no briefing:  
 >>    1) Total de Colaboradores atualmente na empresa;
 >>    2) Tempo médio de experiência dos colabroadores (em anos);
 >>    3) Total e Percentual de colaboradores por gênero;
@@ -27,7 +27,7 @@ Repositório designado para todos os Projetos de Power BI entregues.
 
 * Dashboard Análise de Vendas - Funcionalidades
 > Dataset público referente as informações de vendas, como vendedores, produtos, categorias, regiões de atendimento.      <br>
-> Pbjetivos de cada painel pré-estabelecidas no briefing:  
+> Objetivos de cada painel pré-estabelecidas no briefing:  
 >>    1) Extrair insights de vendas com Narrativa Inteligente;
 >>    2) Análise dos Principais Ingluenciadores das Vendas, 1º e 2º níveís;
 >>    3) Total de Vendas por Categoria e Ponto de Venda com Gráfico de Faixas;
@@ -47,7 +47,7 @@ Repositório designado para todos os Projetos de Power BI entregues.
 
 * Dashboard Análise de Campanha de Marketing  
 > Dataset público referente as informações dos clientes impactados por uma Campanha de Marketing, com o intuito de Compra de Produtos.      <br>
-> Pbjetivos de cada painel pré-estabelecidas no briefing:  
+> Objetivos de cada painel pré-estabelecidas no briefing:  
 >>    1) Visão Cliente - detalhamento do público impactado pela Campanha;     
 >>    2) Visão Marketing - análise do público impactado pela perspectiva de Campanhas (interações, percentual de conversão, histórico, engajamento, acessos ao site e lojas);  
 >>    3) Visão Performance - análise da Campanha Específica e qual o comportamento do público impactado, ou seja, quem comprou na Campanha Target.   
