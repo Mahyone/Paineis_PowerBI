@@ -3,6 +3,21 @@
 ---------------------------------   
 Repositório designado para todos os Projetos de Power BI entregues.  
 
+* Dashboard com Dados de Logística:
+> Dataset público referente as informações da área de logística, como Pedidos entregues, Status das entregas, Vendedores, Datas de Entrega, Prevista e Realizada, entre outros.     <br>
+> Objetivos pré-estabelicido de identificar erros no dataset e problemas de visualização (adequação de layout para cada tipo de informação, além da reformulação de layout):
+>>    1) Total de Entregas no Prazo por Canal de Entrega;
+>>    2) Percentual de Entrega por Equipe;
+>>    3) Total de Entregas por Mês;
+>>    4) Total de Entrega dos Top 5 Vendedores;
+>>    5) Total de Entregas com Atraso por Cidade;
+>>    6) Percentual de Entregas por Status de Entrega;
+   
+> Destaques de Funcionalidades aplicadas:   
+>>   - Tratamento dos dados direto no Power BI;    
+>>   - Adequação de gráficos de acordo com a dimensão e resultados esperado;
+>>   - Alteração de layout e novos indicadores - Tabela de Medidas e cálculos condicionados;
+
 
 * Dashboard Análise de RH:
 > Dataset público referente as informações dos colaboradores da uma empresa, como idade, tempo de casa, salário, treinamentos participantes, avaliação de performance, entre outros.      <br>
