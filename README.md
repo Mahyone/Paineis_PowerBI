@@ -3,6 +3,49 @@
 ---------------------------------   
 Repositório designado para todos os Projetos de Power BI entregues.  
 
+* Dashboard de Análise de Ações:
+> Dataset público referente as informações de ações, extraído da NASDAQ, das empresas Tesla, IBM, Microsoft, Oracle e Walmart.    <br>
+> Objetivos pré-estabelicido de responder questionamentos:
+>>    1) Qual o total de volume negociado ao longo do tempo para as 5 empresas? Permita que a análise seja feita para 1 ou mais empresas;
+>>    2) Qual o valormédio de abertura, mais alto, mais baixo e de fechamento dasações de todas as empresas para todos os meses dado um período de tempo?
+>>    3) Qual a variação média do valor de fechamento das ações de todas as empresas ao longo do tempo, mês a mês?
+>>    4) Explique as principais características e tendências dos dados usando Narrativa Inteligente;
+   
+> Destaques de Funcionalidades aplicadas:   
+>>   - Tratamento dos dados direto no Power BI;    
+>>   - Utilização da funcionalidade de Time Intelligence;
+>>   - Utilização da funcionalidade de Narrativa Inteligente;
+
+<br>
+<br>
+
+
+* Dashboard com Dados Financeiros:
+> Dataset público referente as informações de Balanço Patrimonial da Área Contábil. Dataset colunar, sendo necessário pivotar os dados.  <br>
+> Objetivos pré-estabelicido de apresentar o Balanço Patrimonial da empresa de diversas formas/layouts, explorando as configurações visuais.
+
+<br>
+<br>
+
+* Dashboard com Dados Financeiros:
+> Dataset público referente as informações da área Financeira, como Receitas e Despesas, aberta por Setores.     <br>
+> Objetivos pré-estabelicido de responder questionamentos para a área:
+>>    1) Total de Receitas;
+>>    2) Total de Despesas;
+>>    3) Margem de Lucro;
+>>    4) Total de Receitas por Setor (componentes);
+>>    5) Total de Despesas por Setor em relação à média de Despesas;
+>>    6) Total de Receitas e Despesas por Setor e por Ano, com hierarquia Tipo/Setor;
+>>    7) Também é preciso identificar os segmentos onde Receitas e Despesas são maiores e menores a fim detraçar seu plano estratégico.
+   
+> Destaques de Funcionalidades aplicadas:   
+>>   - Tratamento dos dados direto no Power BI;    
+>>   - Utilização da funcionalidade de 'Principais Segmentos', próprio da Ferramenta, para interpretabilidade de Maiores e menores segmento.
+>>   - Linha de Tendência;
+
+<br>
+<br>
+
 * Dashboard com Dados de Logística:
 > Dataset público referente as informações da área de logística, como Pedidos entregues, Status das entregas, Vendedores, Datas de Entrega, Prevista e Realizada, entre outros.     <br>
 > Objetivos pré-estabelicido de identificar erros no dataset e problemas de visualização (adequação de layout para cada tipo de informação, além da reformulação de layout):
@@ -17,6 +60,9 @@ Repositório designado para todos os Projetos de Power BI entregues.
 >>   - Tratamento dos dados direto no Power BI;    
 >>   - Adequação de gráficos de acordo com a dimensão e resultados esperado;
 >>   - Alteração de layout e novos indicadores - Tabela de Medidas e cálculos condicionados;
+
+<br>
+<br>
 
 
 * Dashboard Análise de RH:
