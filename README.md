@@ -3,6 +3,26 @@
 ---------------------------------   
 Repositório designado para todos os Projetos de Power BI entregues.  
 
+* Dashboard de Gestão Financeira:
+> Dataset com integrações sistemicas e com planilhas de Excel,  a fim de relacionar os dados para que pudesse ter a Gestão Financeira da empresa.    <br>
+> Objetivos pré setados para melhoria de visualização e relacionamentos:
+>>    1) Gráfico acumulado de faturamento e de meta, para acompanhar atingimento por projeção de meta;
+>>    2) Acompanhamento das operações a serem faturadas dentro do mÊs (de acordo com o orçado);
+>>    3) Acompanhamento do Contas a Receber mensal;
+>>    4) Trazer maior visibilidade para os principais clientes; 
+   
+> Destaques de Funcionalidades aplicadas:   
+>>   - Integrações sistêmicas e tratamento das fontes de dados extraídas;
+>>   - Relacionamento de dados sistemicos e de controles em Excel;
+>>   - Utilização de diversas funcionalidades de visualização (retirados por conter informações sensíveis):  
+>>           Enlighten Waffle Chart (atingimento por preenchimento de bolinhas)   
+>>           Scroller (letreiro como de bolsa de ações)   
+>>           Apresentação dos logos dos clientes   
+>>           Valores acumulados sem precisar de Tabelas Adicionais (DCalendário, ou tabelas suportes)   
+
+<br>
+<br>
+
 * Dashboard de Análise de Ações:
 > Dataset público referente as informações de ações, extraído da NASDAQ, das empresas Tesla, IBM, Microsoft, Oracle e Walmart.    <br>
 > Objetivos pré-estabelicido de responder questionamentos:
